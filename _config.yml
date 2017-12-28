@@ -7,7 +7,7 @@ description:
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: False
 picture: assets/images/IMG_0396.JPG
 
 # If you want to include your resume, set to true
