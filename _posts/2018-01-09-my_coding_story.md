@@ -29,7 +29,7 @@ While applying for jobs in my last year of undergrad, I made a conscious effort 
 ## Chapter 2: SPS Commerce
 Between the offers I had at the time, the one that aligned with my career goals the best was at SPS Commerce as a business analyst. SPS Commerce is a cloud supply chain solutions company and our division was heading POS analytics. From a technical perspective my job required me to use mostly SQL and VBA to some capacity (I haven't learned SQL until this job). In this role I used SQL everyday and had good exposure to querying in a big data environment.
 
-After a year in the company, I felt like my growth started to stagnate and I needed a bigger challenge. I thought some type of leadership role would be good accelerator for my career.
+After a year in the company, I felt my growth starting to stagnate and a need for a bigger challenge. I thought some type of leadership role would be good accelerator for my career.
 
 ## Chapter 3: Amazon.com
 After leaving SPS Commerce I joined Amazon in 2015 as a frontline operations manager at its fulfillment center in North California. Because the site used mostly excel type dashboarding and tools, I picked up VBA to help automate a lot of the manual data pulling.
@@ -38,7 +38,7 @@ After leaving SPS Commerce I joined Amazon in 2015 as a frontline operations man
 
 My boss created a SQL database that used VBA and SQL to pull data from different databases and web portals to store historical data for analysis. He soon transitioned ownership of the database to me. This was my first exposure to database management and because I never received formal training on db management it was a rough and bumpy road. I eventually caught footing and was able to tinker around with the database to optimize the reporting.
 
-In 2016 I was felt limited with performing certain tasks like web scraping because my professional coding knowledge was limited to SQL and VBA. I heard Python was a good first coding language to pick up so I started researching more into how I could utilize it to make my tasks more efficient.
+In 2016 I felt limited with performing certain tasks like web scraping because my professional coding knowledge was limited to SQL and VBA. I heard Python was a good first coding language to pick up so I started researching more into how I could utilize it to make my tasks more efficient.
 
 As I continued to research how to use Python, I got more exposed to the world of data science as what I was trying to learn was arguably just data science using Python. Data science sounded very enticing to me as it was a field where I could do the statistical analysis I was performing as a process engineer, but perform them at a higher technical capacity. It didn't take long for my gears to start turning to 'How do I become a data scientist?'.
 
