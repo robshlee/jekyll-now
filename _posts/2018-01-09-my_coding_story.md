@@ -33,11 +33,11 @@ Between the offers I had at the time, the one that aligned with my career goals 
 After a year in the company, I felt like my growth started to stagnate and I needed a bigger challenge. I thought some type of leadership role would be good accelerator for my career.
 
 ## Chapter 3: Amazon.com
-After leaving SPS Commerce I joined Amazon in 2015 as a frontline operations manager at its fulfillment center in North California. Because the site used mostly excel type dashboarding and tools, I picked up VBA. I helped automate a lot of the manual data querying off web tools.
+After leaving SPS Commerce I joined Amazon in 2015 as a frontline operations manager at its fulfillment center in North California. Because the site used mostly excel type dashboarding and tools, I picked up VBA to help automate a lot of the manual data pulling.
 
-8 months later, I transitioned into a process engineering role where I continued to use VBA to automate and create excel reporting tools and also used SQL to create ETL queries.
+8 months later, I transitioned into a process engineering role where I continued to use VBA to automate and create excel reporting and also used SQL to create ETL queries and jobs.
 
-"My boss created a SQL database that used VBA and SQL to pull data from different databases and web portals to store historical data for analysis. At the time I was the most knowledgable in SQL at the site so he transitioned ownership of the database to me. This was my first exposure to database management and because I never received formal training on db management it was a rough and bumpy road. I eventually caught footing and was able to insert new data and create additional views that were needed.
+My boss created a SQL database that used VBA and SQL to pull data from different databases and web portals to store historical data for analysis. At the time I was the most knowledgable in SQL at the site so he transitioned ownership of the database to me. This was my first exposure to database management and because I never received formal training on db management it was a rough and bumpy road. I eventually caught footing and was able to insert new data and create additional views that were needed.
 
 In 2016 I was felt limited with performing certain tasks like web scraping because my professional coding knowledge was limited to SQL and VBA. I heard Python was a good first coding language to pick up so I started researching more into how I could utilize it to make my tasks more efficient.
 
