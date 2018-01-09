@@ -13,8 +13,7 @@ author: roblee
 description: Walkthrough of my coding adventures.
 ---
 
-
-# My Coding Story
+# Intro
 
 These days with coding bootcamps becoming more mainstream and the plethora of online resources available to self teach yourself how to code, there are many professionals that make a sharp pivot in their careers towards software. Personally my jump towards a coding related career was a gradual one over the course of several years. I thought it'd be worth sharing this on my blog so here's my story!
 
