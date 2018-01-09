@@ -51,5 +51,5 @@ September 2017 was when I started the Data Science Immersive program at General 
 
 To get a peak at what type of projects I've done during the 3 month program take a look my github! During this time we also spent a few lectures strictly on using Spark. Overall great experience that I wouldn't take back.
 
-## Chapter 5: _________________
+## Chapter 5 - ∞: _________________
 After graduating the immersive program, I returned back to work as a process engineer at Amazon where I've started to incorporate some of the skills I've learned in the program for report automation tasks. My goal at this time is to transition into a role that is pure data science and continue my coding story!
