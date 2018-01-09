@@ -524,7 +524,6 @@ plt.title('Lasso')
 
 
 
-    <matplotlib.text.Text at 0x112e5fac8>
 
 
 
