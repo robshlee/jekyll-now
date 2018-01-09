@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - markdown
 - elements
-star: true
+star: false
 category: blog
 author: roblee
 description: Experimenting with different regularization penalties.
