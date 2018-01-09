@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![title](assets/images/new-york-city-background.jpg)
 
 I’m a Continuous Improvement professional located in NJ working at Amazon.com. I drive continuous improvement projects and benchmark Amazon’s fulfillment centers across the NA network. 
 
