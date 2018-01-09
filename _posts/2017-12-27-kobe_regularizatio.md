@@ -1,7 +1,7 @@
 
 # Predicting Shots per Game by Kobe Bryant
 
-![title](./img/kobe_title.jpg)
+![title](../assets/imgages/kobe_title.jpg)
 
 In this post I'll be demonstrating regularization penalties through linear models that predict how many shots Kobe Bryant made per game in his career. <br/><br/>
 Please note I don't follow the NBA and thus don't have domain knowledge for this dataset. As a disclaimer, I believe domain knowledge is a key element in any analysis. That being said it's always been interesting to analyze data without any biases from knowing about the topic. It offers fresh perspective and the ability to truly allow the data to tell a story rather than trying to shape the story based on your preconceived notions.
@@ -500,11 +500,11 @@ plt.title('Lasso')
 ```
 
 
-![png](2017-12-27-kobe_regularizatio_files/2017-12-27-kobe_regularizatio_23_0.png)
+![png](./2017-12-27-kobe_regularizatio_files/2017-12-27-kobe_regularizatio_23_0.png)
 
 
 
-![png](2017-12-27-kobe_regularizatio_files/2017-12-27-kobe_regularizatio_23_1.png)
+![png](./2017-12-27-kobe_regularizatio_files/2017-12-27-kobe_regularizatio_23_1.png)
 
 
 
@@ -515,13 +515,13 @@ plt.title('Lasso')
 
 
 
-![png](2017-12-27-kobe_regularizatio_files/2017-12-27-kobe_regularizatio_23_3.png)
+![png](./2017-12-27-kobe_regularizatio_files/2017-12-27-kobe_regularizatio_23_3.png)
 
 
 On a higher level, these two models performed very similarly. As next steps I would like to run some feature engineering starting with the non-zero features from the Lasso regression. In addition I expect running the data through a boosted tree would yield a model with better predictive power.<br/><br/>
 All in all I don't think the current models would be good enough for Kobe Bryant given his high standards. So we'll need to continue this effort.
 
-![title](./img/kobe_pray.jpg)
+![title](../assets/imgages/kobe_pray.jpg)
 
 We got you Kobe.
 
