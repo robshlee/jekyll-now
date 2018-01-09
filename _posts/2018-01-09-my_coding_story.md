@@ -27,7 +27,7 @@ Because of internships, studying for my last year of undergrad, and applying/int
 While applying for jobs in my last year of undergrad, I made a conscious effort to find a role where I can use my engineering knowledge and also foster my coding skills.
 
 ## Chapter 2: SPS Commerce
-Between the offers I had at the time, the one that aligned with my career goals the best was at SPS Commerce as a business analyst. SPS Commerce is a cloud supply chain solutions company and our division was heading POS analytics. From a technical perspective my job required me to use mostly SQL and VBA to some capacity. In this role I used SQL everyday and had good exposure to querying in a big data environment.
+Between the offers I had at the time, the one that aligned with my career goals the best was at SPS Commerce as a business analyst. SPS Commerce is a cloud supply chain solutions company and our division was heading POS analytics. From a technical perspective my job required me to use mostly SQL and VBA to some capacity (I haven't learned SQL until this job). In this role I used SQL everyday and had good exposure to querying in a big data environment.
 
 After a year in the company, I felt like my growth started to stagnate and I needed a bigger challenge. I thought some type of leadership role would be good accelerator for my career.
 
