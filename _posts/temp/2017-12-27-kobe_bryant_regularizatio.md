@@ -1,18 +1,3 @@
----
-title: "Predicting Kobe with Regularization"
-layout: post
-date: 2017-12-27 22:44
-image: /assets/images/markdown.jpg
-headerImage: false
-tag:
-- markdown
-- elements
-star: true
-category: blog
-author: roblee
-description: Experimenting with different regularization penalties.
----
-
 
 # Predicting Shots per Game by Kobe Bryant
 
