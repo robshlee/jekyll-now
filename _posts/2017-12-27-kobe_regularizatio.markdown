@@ -514,11 +514,11 @@ plt.title('Lasso')
 ```
 
 
-![title](./2017-12-27-kobe_regularizatio_files/2017-12-27-kobe_regularizatio_23_0.png)
+![title](../assets/images/2017-12-27-kobe_regularizatio_23_0.png)
 
 
 
-![title](./2017-12-27-kobe_regularizatio_files/2017-12-27-kobe_regularizatio_23_1.png)
+![title](../assets/images/2017-12-27-kobe_regularizatio_23_1.png)
 
 
 
@@ -529,7 +529,7 @@ plt.title('Lasso')
 
 
 
-![title](./2017-12-27-kobe_regularizatio_files/2017-12-27-kobe_regularizatio_23_3.png)
+![title](../assets/images/2017-12-27-kobe_regularizatio_23_3.png)
 
 
 On a higher level, these two models performed very similarly. As next steps I would like to run some feature engineering starting with the non-zero features from the Lasso regression. In addition I expect running the data through a boosted tree would yield a model with better predictive power.<br/><br/>
