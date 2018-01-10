@@ -15,7 +15,7 @@ description: Walkthrough of my coding adventures.
 
 # Intro
 
-These days with coding bootcamps becoming more mainstream and the plethora of online resources available to self teach yourself how to code, there are many professionals that make a sharp pivot in their careers towards software. Personally my jump towards a coding related career was a gradual one over the course of several years. I thought it'd be worth sharing this on my blog so here's my story!
+These days with coding bootcamps becoming more mainstream and the plethora of online resources available to self teach yourself to code, there are many professionals that make a sharp pivot in their careers to software. Personally my jump towards a coding related career was a gradual one over the course of several years. I thought this transition would be worth sharing on my blog so here's my story!
 
 ## Chapter 1: Undergrad - NJIT
 My first exposure to any sort of code was Java in 2010. It was in a CS101 class during my 2nd year in undergrad (majored in Industrial Engineering). It was what you would expect of a 101 class- hello world, data type introductions, etc. Honestly I had a pretty rough time understanding concepts in the beginning, but being introduced to the world of code really was enticing to me at the time.
